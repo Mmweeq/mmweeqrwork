@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HommeWork6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+981538305689eacae8e23308b626b063e267d6e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ebd13ebd4d68b0dd7cc2dc7b1c052f17a1fb9e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("HommeWork6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HommeWork6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
